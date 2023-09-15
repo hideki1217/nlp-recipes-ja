@@ -10,3 +10,4 @@ oseti==0.2
 pykakasi==2.0.1
 pytorch-lightning==1.2.7
 transformers==4.5.0
+jupyter_server
