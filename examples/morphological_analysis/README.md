@@ -6,7 +6,7 @@ Konoha is a Python library for providing integrated interface of various Japanes
 
 ## Summary
 
-|Notebook|Environment|Description| 
-|---|---|---|
-|[Konoha sample](konoha_sample.py)|Local| Morphological analysis by [Konoha](https://github.com/himkt/konoha) |
-|[nagisa sample](nagisa_sample.py)|Local| Morphological analysis by [nagisa](https://github.com/taishi-i/nagisa) |
+| Notebook                          | Environment | Description                                                            |
+| --------------------------------- | ----------- | ---------------------------------------------------------------------- |
+| [Konoha sample](konoha_sample.py) | Local       | Morphological analysis by [Konoha](https://github.com/himkt/konoha)    |
+| [nagisa sample](nagisa_sample.py) | Local       | Morphological analysis by [nagisa](https://github.com/taishi-i/nagisa) |
